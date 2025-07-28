@@ -1,6 +1,6 @@
 # Variables that are created outside of a funcion (as in all of the examples in the previous documments) are known as global variables.
 
-# Global variables can be used by everyone, both inside of funcition anda outside
+# Global variables can be used by everyone, both inside of funcition and outside
 
 x = "awesome!"
 
