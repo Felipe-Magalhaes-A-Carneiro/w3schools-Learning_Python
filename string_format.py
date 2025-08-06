@@ -24,3 +24,14 @@ print(txt)
 
 txt = f"The price is {20 * 59} dollars"
 print(txt)
+
+# UPPERCASE
+language = "pYtHon"
+
+print(language.upper())
+
+# LOWERCASE
+print(language.lower())
+
+# TÍTULO
+print(language.title())
