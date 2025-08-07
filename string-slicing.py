@@ -16,3 +16,6 @@ print(b[2:])
 
 c = "Welcome"
 print(c[-5:-2])
+
+# STRING REVERSAL
+print(c[::-1])
